@@ -1,4 +1,4 @@
-//ce code ecrit tout ce qu'il ecoute sur le port serie. en envoyant get_data sur le port serie, il lit tout le contenut de la carte sd
+//ce code ecrit tout ce qu'il ecoute sur le port serie. en envoyant get_data sur le port serie, il lit tout le contenut de la carte sd.
 
 #include <SPI.h>
 #include <SD.h>
